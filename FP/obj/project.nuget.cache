@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEafCyE1W52ewaaDFd+Y/+mtVAKVGjFVNbPbdOxoU9V9G7Z0kGLTh9J+MVQ2qtSeU+1S0evrGAIcGzjyETzUwQ==",
+  "success": true,
+  "projectFilePath": "/Users/sabakoghuashvili/Desktop/Functional-Programming/FP/FP.fsproj",
+  "expectedPackageFiles": [
+    "/Users/sabakoghuashvili/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
