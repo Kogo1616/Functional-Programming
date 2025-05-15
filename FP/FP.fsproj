@@ -7,7 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Program.fs" />
+        <None Include="Program.fsx" />
     </ItemGroup>
 
     <ItemGroup>
@@ -15,6 +15,8 @@
         <Link>.dockerignore</Link>
       </Content>
       <Content Include="Dockerfile" />
+      <Compile Include="Codewars\Multiplesof3or5.fs" />
+      <Compile Include="Codewars\Sqrt.fs" />
     </ItemGroup>
 
 </Project>
